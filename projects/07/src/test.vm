@@ -1,0 +1,9 @@
+// d=(2-x)*(y+5)
+push 2
+push x
+sub
+push y
+push 5
+add
+mult
+pop d
